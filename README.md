@@ -56,7 +56,7 @@ graph TD
 *   **Sécurité** : JWT (JSON Web Token), TLS/SSL, API Keys
 *   **Langage** : C#
 
-## 🏁 Démarrage Rapide
+##  Démarrage Rapide
 
 ### Prérequis
 1.  **.NET SDK 8.0+**.
