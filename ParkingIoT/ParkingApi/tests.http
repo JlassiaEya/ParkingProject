@@ -1,0 +1,31 @@
+﻿@baseUrl = https://localhost:7001
+@contentType = application/json
+
+###
+# GET toutes les places
+GET {{baseUrl}}/api/place
+
+###
+# GET une place par ID
+GET {{baseUrl}}/api/place/1
+
+###
+# PUT mettre à jour une place
+PUT {{baseUrl}}/api/place/1
+Content-Type: {{contentType}}
+
+{
+  "estOccupee": true
+}
+
+###
+# GET places libres
+GET {{baseUrl}}/api/place/libres
+
+###
+# GET résumé
+GET {{baseUrl}}/api/place/resume
+
+###
+# Test erreur 404
+GET {{baseUrl}}/api/place/999

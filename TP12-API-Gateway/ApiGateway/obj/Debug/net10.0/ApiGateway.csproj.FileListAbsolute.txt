@@ -1,0 +1,9 @@
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\TP12-API-Gateway\ApiGateway\obj\Debug\net10.0\ApiGateway.csproj.AssemblyReference.cache
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\TP12-API-Gateway\ApiGateway\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\TP12-API-Gateway\ApiGateway\obj\Debug\net10.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\TP12-API-Gateway\ApiGateway\obj\Debug\net10.0\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\TP12-API-Gateway\ApiGateway\obj\Debug\net10.0\ApiGateway.AssemblyInfo.cs
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\TP12-API-Gateway\ApiGateway\obj\Debug\net10.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\TP12-API-Gateway\ApiGateway\obj\Debug\net10.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\TP12-API-Gateway\ApiGateway\obj\Debug\net10.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\TP12-API-Gateway\ApiGateway\obj\Debug\net10.0\ApiGateway.sourcelink.json

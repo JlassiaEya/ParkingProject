@@ -1,0 +1,18 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "ServicePlaces";
+
+package places;
+
+service PlaceService {
+  rpc WatchPlaces (Empty) returns (stream PlaceUpdate);
+}
+
+message PlaceUpdate {
+  int32  place_id    = 1;
+  string numero      = 2;
+  bool   est_occupee = 3;
+  string timestamp   = 4;
+}
+
+message Empty {}

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ParkingApi/ParkingApi.csproj" />
+  <Project Path="ParkingConsole/ParkingConsole.csproj" />
+  <Project Path="ParkingGrpc/ParkingGrpc.csproj" />
+  <Project Path="ParkingGrpcClient/ParkingGrpcClient.csproj" />
+  <Project Path="ParkingTest/ParkingTest.csproj" />
+</Solution>

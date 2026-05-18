@@ -1,0 +1,102 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "ParkingGrpc.Protos";
+
+package place;
+
+// =============================================
+// MESSAGES (existants + nouveaux)
+// =============================================
+
+message Empty {}
+
+message PlaceMessage {
+  int32 id = 1;
+  int32 numero = 2;
+  int32 etage = 3;
+  bool est_occupee = 4;
+  string date_derniere_mise_a_jour = 5;
+  string description = 6;
+}
+
+// NOUVEAU : Message pour les mises à jour en temps réel
+message PlaceUpdate {
+  PlaceMessage place = 1;
+  string event_type = 2;  // "OCCUPIED", "FREED", "CREATED", "DELETED"
+  string timestamp = 3;
+}
+
+message PlaceList {
+  repeated PlaceMessage places = 1;
+}
+
+message PlaceRequest {
+  int32 id = 1;
+}
+
+message PlaceResponse {
+  PlaceMessage place = 1;
+  bool success = 2;
+  string message = 3;
+}
+
+message UpdatePlaceRequest {
+  int32 id = 1;
+  bool est_occupee = 2;
+}
+
+message UpdatePlaceResponse {
+  PlaceMessage place = 1;
+  bool success = 2;
+  string message = 3;
+}
+// NOUVEAU : Message pour les données de capteur
+message SensorData {
+  int32 sensor_id = 1;
+  int32 place_id = 2;
+  double value = 3;  // 1.0 = détection, 0.0 = pas de détection
+  string timestamp = 4;
+}
+
+// Résumé après upload
+message UploadSummary {
+  int32 total_messages = 1;
+  int32 places_updated = 2;
+  string start_time = 3;
+  string end_time = 4;
+  bool success = 5;
+  string message = 6;
+}
+// Message de contrôle bidirectionnel
+message ControlMessage {
+  string command = 1;  // "GET_STATUS", "OCCUPY", "FREE", "PING"
+  int32 place_id = 2;
+  string data = 3;
+  string timestamp = 4;
+}
+
+message ControlResponse {
+  string status = 1;  // "OK", "ERROR", "INFO"
+  string message = 2;
+  PlaceMessage place = 3;
+  string timestamp = 4;
+}
+
+
+// =============================================
+// SERVICE
+// =============================================
+
+service PlaceService {
+  // Méthodes unary (existantes)
+  rpc GetAllPlaces (Empty) returns (PlaceList);
+  rpc GetPlace (PlaceRequest) returns (PlaceResponse);
+  rpc UpdatePlace (UpdatePlaceRequest) returns (UpdatePlaceResponse);
+  
+  // NOUVEAU : Server streaming
+  rpc WatchPlaces (Empty) returns (stream PlaceUpdate);
+  rpc UploadSensorData (stream SensorData) returns (UploadSummary);
+  // NOUVEAU : Bidirectional streaming
+  rpc ControlPlaces (stream ControlMessage) returns (stream ControlResponse);
+}
+

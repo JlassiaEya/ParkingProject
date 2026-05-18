@@ -1,0 +1,15 @@
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\ClientConsole\bin\Debug\net10.0\ClientConsole.exe
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\ClientConsole\bin\Debug\net10.0\ClientConsole.deps.json
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\ClientConsole\bin\Debug\net10.0\ClientConsole.runtimeconfig.json
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\ClientConsole\bin\Debug\net10.0\ClientConsole.dll
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\ClientConsole\bin\Debug\net10.0\ClientConsole.pdb
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\ClientConsole\obj\Debug\net10.0\ClientConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\ClientConsole\obj\Debug\net10.0\ClientConsole.AssemblyInfoInputs.cache
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\ClientConsole\obj\Debug\net10.0\ClientConsole.AssemblyInfo.cs
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\ClientConsole\obj\Debug\net10.0\ClientConsole.csproj.CoreCompileInputs.cache
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\ClientConsole\obj\Debug\net10.0\ClientConsole.sourcelink.json
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\ClientConsole\obj\Debug\net10.0\ClientConsole.dll
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\ClientConsole\obj\Debug\net10.0\refint\ClientConsole.dll
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\ClientConsole\obj\Debug\net10.0\ClientConsole.pdb
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\ClientConsole\obj\Debug\net10.0\ClientConsole.genruntimeconfig.cache
+C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\Projets\ClientConsole\obj\Debug\net10.0\ref\ClientConsole.dll

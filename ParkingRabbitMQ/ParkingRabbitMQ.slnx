@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Consommateur/Consommateur.csproj" />
+  <Project Path="Producteur/Producteur.csproj" />
+  <Project Path="ServiceHistorique/ServiceHistorique.csproj" />
+</Solution>

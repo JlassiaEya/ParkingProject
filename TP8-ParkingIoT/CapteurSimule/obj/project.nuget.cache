@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xuiugm/BIjc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP8-ParkingIoT\\CapteurSimule\\CapteurSimule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PROBOOK\\.nuget\\packages\\mqttnet\\4.3.3.952\\mqttnet.4.3.3.952.nupkg.sha512"
+  ],
+  "logs": []
+}

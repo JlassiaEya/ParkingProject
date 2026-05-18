@@ -1,0 +1,133 @@
+﻿@baseUrl = https://localhost:7294
+@contentType = application/json
+
+###
+# ==========================================
+# SCÉNARIOS DE SUCCÈS
+# ==========================================
+
+### 1. GET toutes les places (succès)
+GET {{baseUrl}}/api/place
+
+### 2. GET une place existante (succès)
+GET {{baseUrl}}/api/place/1
+
+### 3. PUT mettre à jour une place (succès)
+PUT {{baseUrl}}/api/place/1
+Content-Type: {{contentType}}
+
+{
+  "estOccupee": true
+}
+
+###
+# ==========================================
+# SCÉNARIOS D'ERREUR - VALIDATION
+# ==========================================
+
+### 4. POST place avec numéro manquant (erreur 400)
+POST {{baseUrl}}/api/place
+Content-Type: {{contentType}}
+
+{
+  "etage": 1,
+  "description": "Test sans numéro"
+}
+
+### 5. POST place avec numéro hors limites (erreur 400)
+POST {{baseUrl}}/api/place
+Content-Type: {{contentType}}
+
+{
+  "numero": 1000,
+  "etage": 1,
+  "description": "Numéro trop grand"
+}
+
+### 6. POST place avec étage négatif (erreur 400)
+POST {{baseUrl}}/api/place
+Content-Type: {{contentType}}
+
+{
+  "numero": 105,
+  "etage": -1,
+  "description": "Étage invalide"
+}
+
+### 7. POST place avec description trop longue (erreur 400)
+POST {{baseUrl}}/api/place
+Content-Type: {{contentType}}
+
+{
+  "numero": 105,
+  "etage": 1,
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+}
+
+###
+# ==========================================
+# SCÉNARIOS D'ERREUR - NOT FOUND
+# ==========================================
+
+### 8. GET place inexistante (erreur 404)
+GET {{baseUrl}}/api/place/999
+
+### 9. PUT place inexistante (erreur 404)
+PUT {{baseUrl}}/api/place/999
+Content-Type: {{contentType}}
+
+{
+  "estOccupee": true
+}
+
+###
+# ==========================================
+# SCÉNARIOS D'ERREUR - LOGIQUE MÉTIER
+# ==========================================
+
+### 10. PUT place déjà dans l'état demandé (erreur 400)
+# D'abord, occuper la place 1
+PUT {{baseUrl}}/api/place/1
+Content-Type: {{contentType}}
+
+{
+  "estOccupee": true
+}
+
+### Ensuite, essayer de l'occuper à nouveau (erreur attendue)
+PUT {{baseUrl}}/api/place/1
+Content-Type: {{contentType}}
+
+{
+  "estOccupee": true
+}
+
+###
+# ==========================================
+# HEALTH CHECKS
+# ==========================================
+
+### 11. Health check basique
+GET {{baseUrl}}/health
+
+### 12. Health check détaillé
+GET {{baseUrl}}/api/health
+
+### 13. Ping
+GET {{baseUrl}}/api/health/ping
+
+###
+# ==========================================
+# CONFIGURATION
+# ==========================================
+
+### 14. Récupérer la configuration du parking
+GET {{baseUrl}}/api/place/config
+
+###
+# ==========================================
+# TEST D'EXCEPTION
+# ==========================================
+
+### 15. Déclencher une exception volontaire (dev only)
+GET {{baseUrl}}/api/place/test-error

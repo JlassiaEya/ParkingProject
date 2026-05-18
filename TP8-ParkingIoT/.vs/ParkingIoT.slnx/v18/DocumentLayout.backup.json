@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP8-ParkingIoT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B38BF23-4C97-A8A4-7616-EC6A77BB0D6B}|Subscriber\\Subscriber.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\tp8-parkingiot\\subscriber\\services\\subscriberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B38BF23-4C97-A8A4-7616-EC6A77BB0D6B}|Subscriber\\Subscriber.csproj|solutionrelative:subscriber\\services\\subscriberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B38BF23-4C97-A8A4-7616-EC6A77BB0D6B}|Subscriber\\Subscriber.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\tp8-parkingiot\\subscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B38BF23-4C97-A8A4-7616-EC6A77BB0D6B}|Subscriber\\Subscriber.csproj|solutionrelative:subscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27A7D4A-991A-37A4-F1F1-64667A57319D}|CapteurSimule\\CapteurSimule.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\tp8-parkingiot\\capteursimule\\services\\capteurservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27A7D4A-991A-37A4-F1F1-64667A57319D}|CapteurSimule\\CapteurSimule.csproj|solutionrelative:capteursimule\\services\\capteurservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27A7D4A-991A-37A4-F1F1-64667A57319D}|CapteurSimule\\CapteurSimule.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\tp8-parkingiot\\capteursimule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27A7D4A-991A-37A4-F1F1-64667A57319D}|CapteurSimule\\CapteurSimule.csproj|solutionrelative:capteursimule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27A7D4A-991A-37A4-F1F1-64667A57319D}|CapteurSimule\\CapteurSimule.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\tp8-parkingiot\\capteursimule\\models\\placeetat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27A7D4A-991A-37A4-F1F1-64667A57319D}|CapteurSimule\\CapteurSimule.csproj|solutionrelative:capteursimule\\models\\placeetat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP8-ParkingIoT\\Subscriber\\Program.cs",
+              "RelativeDocumentMoniker": "Subscriber\\Program.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP8-ParkingIoT\\Subscriber\\Program.cs",
+              "RelativeToolTip": "Subscriber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:46:41.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubscriberService.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP8-ParkingIoT\\Subscriber\\Services\\SubscriberService.cs",
+              "RelativeDocumentMoniker": "Subscriber\\Services\\SubscriberService.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP8-ParkingIoT\\Subscriber\\Services\\SubscriberService.cs",
+              "RelativeToolTip": "Subscriber\\Services\\SubscriberService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:45:04.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP8-ParkingIoT\\CapteurSimule\\Program.cs",
+              "RelativeDocumentMoniker": "CapteurSimule\\Program.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP8-ParkingIoT\\CapteurSimule\\Program.cs",
+              "RelativeToolTip": "CapteurSimule\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvyAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:30:04.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CapteurService.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP8-ParkingIoT\\CapteurSimule\\Services\\CapteurService.cs",
+              "RelativeDocumentMoniker": "CapteurSimule\\Services\\CapteurService.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP8-ParkingIoT\\CapteurSimule\\Services\\CapteurService.cs",
+              "RelativeToolTip": "CapteurSimule\\Services\\CapteurService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswB0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:26:24.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaceEtat.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP8-ParkingIoT\\CapteurSimule\\Models\\PlaceEtat.cs",
+              "RelativeDocumentMoniker": "CapteurSimule\\Models\\PlaceEtat.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP8-ParkingIoT\\CapteurSimule\\Models\\PlaceEtat.cs",
+              "RelativeToolTip": "CapteurSimule\\Models\\PlaceEtat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:25:01.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

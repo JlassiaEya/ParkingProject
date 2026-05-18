@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15D395CB-FC47-DA89-5BA5-B0168787F9A4}|ParkingGrpc\\ParkingGrpc.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkinggrpc\\protos\\place.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{15D395CB-FC47-DA89-5BA5-B0168787F9A4}|ParkingGrpc\\ParkingGrpc.csproj|solutionrelative:parkinggrpc\\protos\\place.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkinggrpcclient\\sensorsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|solutionrelative:parkinggrpcclient\\sensorsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkinggrpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|solutionrelative:parkinggrpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkinggrpcclient\\interactivecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|solutionrelative:parkinggrpcclient\\interactivecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkinggrpcclient\\streamingcomparison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|solutionrelative:parkinggrpcclient\\streamingcomparison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkinggrpcclient\\watchplacesclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|solutionrelative:parkinggrpcclient\\watchplacesclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkinggrpcclient\\protos\\place.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|solutionrelative:parkinggrpcclient\\protos\\place.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkinggrpcclient\\parkinggrpcclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|solutionrelative:parkinggrpcclient\\parkinggrpcclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D395CB-FC47-DA89-5BA5-B0168787F9A4}|ParkingGrpc\\ParkingGrpc.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkinggrpc\\services\\placegrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D395CB-FC47-DA89-5BA5-B0168787F9A4}|ParkingGrpc\\ParkingGrpc.csproj|solutionrelative:parkinggrpc\\services\\placegrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkinggrpcclient\\benchmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08544EB4-107F-777B-5A2E-AC251577B73A}|ParkingGrpcClient\\ParkingGrpcClient.csproj|solutionrelative:parkinggrpcclient\\benchmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D395CB-FC47-DA89-5BA5-B0168787F9A4}|ParkingGrpc\\ParkingGrpc.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkinggrpc\\services\\placeeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D395CB-FC47-DA89-5BA5-B0168787F9A4}|ParkingGrpc\\ParkingGrpc.csproj|solutionrelative:parkinggrpc\\services\\placeeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D395CB-FC47-DA89-5BA5-B0168787F9A4}|ParkingGrpc\\ParkingGrpc.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkinggrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D395CB-FC47-DA89-5BA5-B0168787F9A4}|ParkingGrpc\\ParkingGrpc.csproj|solutionrelative:parkinggrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpc\\obj\\Debug\\net10.0\\Protos\\Place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ParkingGrpc\\obj\\Debug\\net10.0\\Protos\\Place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D395CB-FC47-DA89-5BA5-B0168787F9A4}|ParkingGrpc\\ParkingGrpc.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkinggrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15D395CB-FC47-DA89-5BA5-B0168787F9A4}|ParkingGrpc\\ParkingGrpc.csproj|solutionrelative:parkinggrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B260CB7F-651A-A96D-9540-6083FDA075C0}|ParkingConsole\\ParkingConsole.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkingconsole\\services\\placeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B260CB7F-651A-A96D-9540-6083FDA075C0}|ParkingConsole\\ParkingConsole.csproj|solutionrelative:parkingconsole\\services\\placeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B260CB7F-651A-A96D-9540-6083FDA075C0}|ParkingConsole\\ParkingConsole.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkingconsole\\repositories\\iplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B260CB7F-651A-A96D-9540-6083FDA075C0}|ParkingConsole\\ParkingConsole.csproj|solutionrelative:parkingconsole\\repositories\\iplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B260CB7F-651A-A96D-9540-6083FDA075C0}|ParkingConsole\\ParkingConsole.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkingconsole\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B260CB7F-651A-A96D-9540-6083FDA075C0}|ParkingConsole\\ParkingConsole.csproj|solutionrelative:parkingconsole\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D395CB-FC47-DA89-5BA5-B0168787F9A4}|ParkingGrpc\\ParkingGrpc.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\parkingiot\\parkinggrpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15D395CB-FC47-DA89-5BA5-B0168787F9A4}|ParkingGrpc\\ParkingGrpc.csproj|solutionrelative:parkinggrpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlaceService.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingConsole\\Services\\PlaceService.cs",
+              "RelativeDocumentMoniker": "ParkingConsole\\Services\\PlaceService.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingConsole\\Services\\PlaceService.cs",
+              "RelativeToolTip": "ParkingConsole\\Services\\PlaceService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwJwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:14:22.88Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlaceGrpcService.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpc\\Services\\PlaceGrpcService.cs",
+              "RelativeDocumentMoniker": "ParkingGrpc\\Services\\PlaceGrpcService.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpc\\Services\\PlaceGrpcService.cs",
+              "RelativeToolTip": "ParkingGrpc\\Services\\PlaceGrpcService.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAAAqwDwBAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:04:38.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "place.proto",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\Protos\\place.proto",
+              "RelativeDocumentMoniker": "ParkingGrpcClient\\Protos\\place.proto",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\Protos\\place.proto",
+              "RelativeToolTip": "ParkingGrpcClient\\Protos\\place.proto",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2026-03-06T09:44:51.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WatchPlacesClient.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\WatchPlacesClient.cs",
+              "RelativeDocumentMoniker": "ParkingGrpcClient\\WatchPlacesClient.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\WatchPlacesClient.cs",
+              "RelativeToolTip": "ParkingGrpcClient\\WatchPlacesClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:06:35.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InteractiveControl.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\InteractiveControl.cs",
+              "RelativeDocumentMoniker": "ParkingGrpcClient\\InteractiveControl.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\InteractiveControl.cs",
+              "RelativeToolTip": "ParkingGrpcClient\\InteractiveControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:31:36.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\Program.cs",
+              "RelativeDocumentMoniker": "ParkingGrpcClient\\Program.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\Program.cs",
+              "RelativeToolTip": "ParkingGrpcClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T09:12:51.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "place.proto",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpc\\Protos\\place.proto",
+              "RelativeDocumentMoniker": "ParkingGrpc\\Protos\\place.proto",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpc\\Protos\\place.proto",
+              "RelativeToolTip": "ParkingGrpc\\Protos\\place.proto",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2026-03-05T21:08:09.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StreamingComparison.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\StreamingComparison.cs",
+              "RelativeDocumentMoniker": "ParkingGrpcClient\\StreamingComparison.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\StreamingComparison.cs",
+              "RelativeToolTip": "ParkingGrpcClient\\StreamingComparison.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:13:03.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SensorSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\SensorSimulator.cs",
+              "RelativeDocumentMoniker": "ParkingGrpcClient\\SensorSimulator.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\SensorSimulator.cs",
+              "RelativeToolTip": "ParkingGrpcClient\\SensorSimulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:48:31.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParkingGrpcClient.csproj",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\ParkingGrpcClient.csproj",
+              "RelativeDocumentMoniker": "ParkingGrpcClient\\ParkingGrpcClient.csproj",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\ParkingGrpcClient.csproj",
+              "RelativeToolTip": "ParkingGrpcClient\\ParkingGrpcClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-08T18:26:11.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Benchmark.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\Benchmark.cs",
+              "RelativeDocumentMoniker": "ParkingGrpcClient\\Benchmark.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpcClient\\Benchmark.cs",
+              "RelativeToolTip": "ParkingGrpcClient\\Benchmark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T09:29:23.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlaceEventService.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpc\\Services\\PlaceEventService.cs",
+              "RelativeDocumentMoniker": "ParkingGrpc\\Services\\PlaceEventService.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpc\\Services\\PlaceEventService.cs",
+              "RelativeToolTip": "ParkingGrpc\\Services\\PlaceEventService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:01:35.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPlaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingConsole\\Repositories\\IPlaceRepository.cs",
+              "RelativeDocumentMoniker": "ParkingConsole\\Repositories\\IPlaceRepository.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingConsole\\Repositories\\IPlaceRepository.cs",
+              "RelativeToolTip": "ParkingConsole\\Repositories\\IPlaceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T07:54:53.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpc\\obj\\Debug\\net10.0\\Protos\\Place.cs",
+              "RelativeDocumentMoniker": "ParkingGrpc\\obj\\Debug\\net10.0\\Protos\\Place.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpc\\obj\\Debug\\net10.0\\Protos\\Place.cs",
+              "RelativeToolTip": "ParkingGrpc\\obj\\Debug\\net10.0\\Protos\\Place.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:31:19.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpc\\Program.cs",
+              "RelativeDocumentMoniker": "ParkingGrpc\\Program.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpc\\Program.cs",
+              "RelativeToolTip": "ParkingGrpc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T21:42:04.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ParkingGrpc\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ParkingGrpc\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-06T08:46:40.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingConsole\\Models\\Place.cs",
+              "RelativeDocumentMoniker": "ParkingConsole\\Models\\Place.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingConsole\\Models\\Place.cs",
+              "RelativeToolTip": "ParkingConsole\\Models\\Place.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T07:53:37.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpc\\appsettings.json",
+              "RelativeDocumentMoniker": "ParkingGrpc\\appsettings.json",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\ParkingIoT\\ParkingGrpc\\appsettings.json",
+              "RelativeToolTip": "ParkingGrpc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-06T07:45:47.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

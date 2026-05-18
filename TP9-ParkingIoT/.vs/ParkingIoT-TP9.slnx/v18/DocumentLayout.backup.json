@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\tp9-parkingiot\\serviceplaces\\services\\mqttbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|solutionrelative:serviceplaces\\services\\mqttbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\tp9-parkingiot\\serviceplaces\\models\\placeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|solutionrelative:serviceplaces\\models\\placeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\tp9-parkingiot\\serviceplaces\\services\\placerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|solutionrelative:serviceplaces\\services\\placerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\tp9-parkingiot\\serviceplaces\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|solutionrelative:serviceplaces\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\tp9-parkingiot\\serviceplaces\\controllers\\placecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|solutionrelative:serviceplaces\\controllers\\placecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\tp9-parkingiot\\serviceplaces\\models\\etatplacemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|solutionrelative:serviceplaces\\models\\etatplacemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\tp9-parkingiot\\serviceplaces\\services\\iplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|solutionrelative:serviceplaces\\services\\iplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\tp9-parkingiot\\serviceplaces\\models\\mqttoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|solutionrelative:serviceplaces\\models\\mqttoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\tp9-parkingiot\\serviceplaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|solutionrelative:serviceplaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|c:\\users\\probook\\desktop\\m1 s2\\soa\\tps soa\\projets\\tp9-parkingiot\\serviceplaces\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ED8A17F-3B25-7BC9-70F2-F8A9DCFD648A}|ServicePlaces\\ServicePlaces.csproj|solutionrelative:serviceplaces\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaceEvent.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Models\\PlaceEvent.cs",
+              "RelativeDocumentMoniker": "ServicePlaces\\Models\\PlaceEvent.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Models\\PlaceEvent.cs",
+              "RelativeToolTip": "ServicePlaces\\Models\\PlaceEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T20:07:50.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaceController.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Controllers\\PlaceController.cs",
+              "RelativeDocumentMoniker": "ServicePlaces\\Controllers\\PlaceController.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Controllers\\PlaceController.cs",
+              "RelativeToolTip": "ServicePlaces\\Controllers\\PlaceController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:00:50.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MqttBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Services\\MqttBackgroundService.cs",
+              "RelativeDocumentMoniker": "ServicePlaces\\Services\\MqttBackgroundService.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Services\\MqttBackgroundService.cs",
+              "RelativeToolTip": "ServicePlaces\\Services\\MqttBackgroundService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwGAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:57:26.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPlaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Services\\IPlaceRepository.cs",
+              "RelativeDocumentMoniker": "ServicePlaces\\Services\\IPlaceRepository.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Services\\IPlaceRepository.cs",
+              "RelativeToolTip": "ServicePlaces\\Services\\IPlaceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:37:27.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Services\\PlaceRepository.cs",
+              "RelativeDocumentMoniker": "ServicePlaces\\Services\\PlaceRepository.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Services\\PlaceRepository.cs",
+              "RelativeToolTip": "ServicePlaces\\Services\\PlaceRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:38:24.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Models\\Place.cs",
+              "RelativeDocumentMoniker": "ServicePlaces\\Models\\Place.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Models\\Place.cs",
+              "RelativeToolTip": "ServicePlaces\\Models\\Place.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:30:29.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EtatPlaceMessage.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Models\\EtatPlaceMessage.cs",
+              "RelativeDocumentMoniker": "ServicePlaces\\Models\\EtatPlaceMessage.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Models\\EtatPlaceMessage.cs",
+              "RelativeToolTip": "ServicePlaces\\Models\\EtatPlaceMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:32:28.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MqttOptions.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Models\\MqttOptions.cs",
+              "RelativeDocumentMoniker": "ServicePlaces\\Models\\MqttOptions.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Models\\MqttOptions.cs",
+              "RelativeToolTip": "ServicePlaces\\Models\\MqttOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T10:00:35.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Program.cs",
+              "RelativeDocumentMoniker": "ServicePlaces\\Program.cs",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\Program.cs",
+              "RelativeToolTip": "ServicePlaces\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:01:40.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\appsettings.json",
+              "RelativeDocumentMoniker": "ServicePlaces\\appsettings.json",
+              "ToolTip": "C:\\Users\\PROBOOK\\Desktop\\M1 S2\\SOA\\TPs SOA\\Projets\\TP9-ParkingIoT\\ServicePlaces\\appsettings.json",
+              "RelativeToolTip": "ServicePlaces\\appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T09:03:09.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

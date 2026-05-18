@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiGateway",
+    "\\ApiGateway\\Controllers",
+    "\\ApiGateway\\Middleware",
+    "\\ApiGateway\\Services"
+  ],
+  "SelectedNode": "\\ApiGateway\\Middleware\\JwtAuthenticationMiddleware.cs",
+  "PreviewInSolutionExplorer": false
+}

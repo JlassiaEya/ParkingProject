@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ParkingConsole</id>
+    <version>1.0.0</version>
+    <authors>ParkingConsole</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="521aab121400fc54319c39f4fd4ec71416c4ca06" />
+    <dependencies>
+      <group targetFramework="net10.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\ParkingIoT\ParkingConsole\bin\Debug\net10.0\ParkingConsole.runtimeconfig.json" target="lib\net10.0\ParkingConsole.runtimeconfig.json" />
+    <file src="C:\Users\PROBOOK\Desktop\M1 S2\SOA\TPs SOA\ParkingIoT\ParkingConsole\bin\Debug\net10.0\ParkingConsole.dll" target="lib\net10.0\ParkingConsole.dll" />
+  </files>
+</package>

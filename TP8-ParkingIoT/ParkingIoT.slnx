@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CapteurSimule/CapteurSimule.csproj" />
+  <Project Path="Subscriber/Subscriber.csproj" />
+</Solution>
