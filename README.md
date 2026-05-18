@@ -2,7 +2,7 @@
 
 Ce projet est une solution complète de gestion de parking intelligent basée sur une architecture **microservices**. Il intègre des technologies IoT, des communications asynchrones (RabbitMQ, MQTT), du streaming (gRPC) et une sécurité avancée (JWT, TLS).
 
-## 🏗️ Architecture du Système
+##  Architecture du Système
 
 Le système est composé de plusieurs services spécialisés communiquant ensemble pour offrir une expérience fluide.
 
@@ -27,7 +27,7 @@ graph TD
     SP -.->|gRPC Streaming| Client
 ```
 
-## 🚀 Composants Clés
+##  Composants Clés
 
 ### 1. [API Gateway](file:///c:/Users/PROBOOK/Desktop/M1%20S2/SOA/TPs%20SOA/Projets/TP12-API-Gateway/ApiGateway)
 *   **Rôle** : Point d'entrée unique.
@@ -49,7 +49,7 @@ graph TD
 ### 5. [Capteur Simulé](file:///c:/Users/PROBOOK/Desktop/M1%20S2/SOA/TPs%20SOA/Projets/TP8-ParkingIoT/CapteurSimule)
 *   **Rôle** : Simule un équipement IoT qui publie des données de capteurs via MQTT chiffré (TLS).
 
-## 🛠️ Stack Technique
+##  Stack Technique
 *   **Framework** : .NET 8 / ASP.NET Core
 *   **Messaging** : RabbitMQ, Mosquitto (MQTT)
 *   **Communication** : REST, gRPC
@@ -59,9 +59,8 @@ graph TD
 ## 🏁 Démarrage Rapide
 
 ### Prérequis
-1.  **Docker** (pour RabbitMQ et Mosquitto) ou installations locales.
-2.  **.NET SDK 8.0+**.
-3.  **Certificats TLS** (pour la communication MQTT sécurisée).
+1.  **.NET SDK 8.0+**.
+2.  **Certificats TLS** (pour la communication MQTT sécurisée).
 
 ### Installation
 1.  Lancer le broker MQTT (Mosquitto) avec support TLS.
@@ -72,12 +71,7 @@ graph TD
     dotnet run --project ./TP9-ParkingIoT/ServicePlaces
     # ... ainsi de suite pour chaque service
     ```
-
-### Test de Résilience
-Un script PowerShell est disponible pour tester la tolérance aux pannes :
-*   [test_resilience.ps1](file:///c:/Users/PROBOOK/Desktop/M1%20S2/SOA/TPs%20SOA/Projets/TP12-API-Gateway/test_resilience.ps1)
-
-## 🔒 Sécurité
+##  Sécurité
 Toutes les requêtes vers les services internes doivent passer par la Gateway avec un token JWT valide ou une clé API autorisée. La communication IoT est protégée par MQTTS (Port 8883).
 
 ---
