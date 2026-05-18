@@ -65,12 +65,7 @@ graph TD
 ### Installation
 1.  Lancer le broker MQTT (Mosquitto) avec support TLS.
 2.  Lancer RabbitMQ.
-3.  Exécuter les microservices :
-    ```powershell
-    dotnet run --project ./TP12-API-Gateway/ApiGateway
-    dotnet run --project ./TP9-ParkingIoT/ServicePlaces
-    # ... ainsi de suite pour chaque service
-    ```
+3.  Exécuter les microservices 
 ##  Sécurité
 Toutes les requêtes vers les services internes doivent passer par la Gateway avec un token JWT valide ou une clé API autorisée. La communication IoT est protégée par MQTTS (Port 8883).
 
